@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Cesar Guillen"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended East Side High School, where I barely graduated because I had a breakdown and did not turn in any assignments for a class that I needed for graduating. If I were to compare my English and Math class, I did better in my English classes than my Math classes. The subject I did the best in was Psychology, which inlfluenced why I chose Psychology as my major.   
 
      
 
@@ -26,14 +26,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+The laptop I use at home is a Samsung laptop. On a scale of 1 to 10, I would rate my knowledge as a 6. And Since my brother is an online gamer our internet connection is very good.   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+I would rather be called by my classmates as Cesar. I also still get called by my friends as Cesar because I don't really like nicknames like that.   
    
  
 
